@@ -44,6 +44,7 @@
     传感器文档的阅读  
     阿里云服务端部署
 
+
 5. 资料  
     环境：  
         Linux 18.04带环境系统  
@@ -56,9 +57,11 @@
         链接：https://pan.baidu.com/s/1SS2E76q2OChV4UITfHm0Wg   
         提取码：0j40  
 
+
 致谢：
     感谢小伙伴 https://github.com/lei89 的UI支持  
     感谢 粤嵌 提供的环境等相关资源  
+
 
 项目状态：  
     更新中...
